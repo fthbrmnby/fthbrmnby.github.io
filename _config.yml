@@ -1,3 +1,31 @@
-name: Fatih Barmanbay
-markdown: kramdown
-permalink: /blog/:title
+# Permalinks
+permalink:      /:title
+
+# Setup
+title:          fthbrmnby
+paginate:       5
+baseurl:        ""
+url:            "https://fthbrmnby.github.io"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+  name:         Fatih Barmanbay
+  url:          http://fthbrmnby.github.io
+  email:        fthbrmnby@gmail.com
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:         https://github.com/chesterhow/tale
+
+# Gems
+plugins:
+  - jekyll-paginate
