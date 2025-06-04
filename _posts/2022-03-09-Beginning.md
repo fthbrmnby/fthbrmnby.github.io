@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Begining"
+title: "Beginning"
 author: "Fatih"
 ---
 
